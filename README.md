@@ -15,19 +15,17 @@ A) Marketing Analysis:
 
 1. Loyal User Reward: The marketing team wants to reward the most loyal users, i.e., those who have been using the platform for the longest time.
    Your Task: Identify the five oldest users on Instagram from the provided database.
-   
-   select * from users order by created_at asc limit 5;
 
 3. Inactive User Engagement: The team wants to encourage inactive users to start posting by sending them promotional emails.
    Your Task: Identify users who have never posted a single photo on Instagram.
 
-4. Contest Winner Declaration: The team has organized a contest where the user with the most likes on a single photo wins.
+5. Contest Winner Declaration: The team has organized a contest where the user with the most likes on a single photo wins.
    Your Task: Determine the winner of the contest and provide their details to the team.
 
-5. Hashtag Research: A partner brand wants to know the most popular hashtags to use in their posts to reach the most people.
+6. Hashtag Research: A partner brand wants to know the most popular hashtags to use in their posts to reach the most people.
    Your Task: Identify and suggest the top five most commonly used hashtags on the platform.
 
-6. Ad Campaign Launch: The team wants to know the best day of the week to launch ads.
+7. Ad Campaign Launch: The team wants to know the best day of the week to launch ads.
    Your Task: Determine the day of the week when most users register on Instagram. Provide insights on when to schedule an ad campaign.
 
 B) Investor Metrics:
