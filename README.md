@@ -39,5 +39,7 @@ B) Investor Metrics:
 Insights and Results:
 -------------------------
 ●	Leveraged SQL to determine the 5 oldest users and over 1,000 users who had never posted, supporting targeted marketing and re-engagement.
+
 ●	Analyzed 100,000+ posts to determine the contest winner with the highest single photo likes and identify the top hashtags for improved brand partnerships.
+
 ●	Recommended optimal days for ad campaigns based on 7-day user registration patterns and flagged 500 potential bot accounts exhibiting abnormal activity.
